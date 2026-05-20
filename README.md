@@ -14,6 +14,11 @@ Set up the Raspberry Pi Zero W as a lightweight network-wide DNS sinkhole using 
 - Computer for flashing Raspberry Pi OS
 - Home Wi-Fi network credentials
 
+## Resources
+
+- [Raspberry Pi: Block ads at home with Pi-hole](https://www.raspberrypi.com/tutorials/running-pi-hole-on-a-raspberry-pi/) - Main step-by-step Raspberry Pi setup tutorial.
+- [Pi-hole documentation](https://docs.pi-hole.net/) - Official Pi-hole reference for installation, configuration, DNS, DHCP, and maintenance.
+
 ## Setup Plan
 
 ### 1. Prepare the microSD card

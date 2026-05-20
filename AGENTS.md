@@ -9,6 +9,7 @@ This repo documents and tracks my Raspberry Pi Zero W Pi-hole setup.
 - Do not store real passwords, API tokens, Wi-Fi passwords, or private network details unless explicitly requested.
 - Use `README.md` for the main setup plan.
 - Use `progress.md` for running notes, decisions, troubleshooting history, IP address placeholders, and router setting notes.
+- Prefer the linked Raspberry Pi tutorial and official Pi-hole documentation as source material when updating setup instructions.
 - Keep changes small and focused.
 - Commit with clear, descriptive commit messages.
 
